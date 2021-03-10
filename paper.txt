@@ -1,0 +1,15 @@
+Visual encodings
+Drill-down
+Data density
+Exploratory data analysis
+Scatter plot matrix
+Brushing-and-linking
+Parallel coordinates
+Encore Raw data values
+Dorling cartogram
+Node-link diagrams
+Nesting of data
+Sunburst layout
+Icicle layout
+Slice and dice subdivision
+Seriation
