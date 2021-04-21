@@ -9,7 +9,7 @@
     justify-content: center;
     align-items: center;
     max-width: 100%;
-    color: red;
+    color: #D1E0B2;
 
 }
 .row{
@@ -63,10 +63,11 @@
     text-align: left;
 }
 .info h3{
-    font-size: medium;
     text-indent: 1em;
     text-align: left;
+    font-size: medium;
 }
 .graphs{
-    background-color: black;
+    background-color: #D1E0B2
+;
 }
