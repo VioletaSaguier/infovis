@@ -27,7 +27,7 @@
     margin-bottom: 20px;
     padding-bottom: 0;
     color:  #D1E0B2; 
-    position: right/*relative*/;
+    position: relative;
     z-index: 2;
 }
 
@@ -46,7 +46,7 @@
 
 .section-title p {
     margin-bottom: 0;
-    position: right/*relative*/;
+    position: relative;
     z-index: 2;
 }
 
