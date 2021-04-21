@@ -10,16 +10,19 @@
     align-items: center;
     max-width: 100%;
     color: #D1E0B2;
+    background-color: #D1E0B2
 
 }
 .row{
     margin-top: 3em;
+ background-color: #D1E0B2
 }
 .section-title {
     text-align: center;
     padding: 30px 0;
     position: relative;
     color: #3b434a; 
+ background-color: #D1E0B2
 }
 .section-title h2 {
     font-size: 32px;
@@ -28,6 +31,7 @@
     padding-bottom: 0;
     position: relative;
     z-index: 2;
+ background-color: #D1E0B2
 }
 
 .section-title span {
@@ -40,12 +44,14 @@
     font-weight: 700;
     font-size: 52px;
     line-height: 0;
+ background-color: #D1E0B2
 }
 
 .section-title p {
     margin-bottom: 0;
     position: relative;
     z-index: 2;
+ background-color: #D1E0B2
 }
 
 .titulo{
@@ -56,16 +62,19 @@
     position: relative;
     text-align: center;
     font-family: 'Parisienne', cursive; 
+ background-color: #D1E0B2
     
 .info{
     font-family: 'Bitter', serif;
     text-indent: 1em;
     text-align: left;
+ background-color: #D1E0B2
 }
 .info h3{
     text-indent: 1em;
     text-align: left;
     font-size: medium;
+ background-color: #D1E0B2
 }
 .graphs{
     background-color: #D1E0B2
