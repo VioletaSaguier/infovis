@@ -1,6 +1,6 @@
 /** INTRODUCTION **/
 @font-face {
-    font-family: Autumn;
+    font-family: monospace;
     src: url("resources/Autumn_Chant.otf") format("opentype");
 }
 
@@ -26,7 +26,7 @@
     text-transform: uppercase;
     margin-bottom: 20px;
     padding-bottom: 0;
-    color: #3b434a;
+    color: #D1E0B2;
     position: relative;
     z-index: 2;
 }
