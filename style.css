@@ -59,9 +59,13 @@
     
 .info{
     font-family: 'Bitter', serif;
+    text-indent: 1em;
+    text-align: left;
 }
 .info h3{
     font-size: medium;
+    text-indent: 1em;
+    text-align: left;
 }
 .graphs{
     background-color: black;
