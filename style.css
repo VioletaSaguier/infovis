@@ -1,7 +1,7 @@
 /** INTRODUCTION **/
 @font-face {
-    font-family: monospace;
-    src: url("resources/Autumn_Chant.otf") format("opentype");
+    font-family: 'Parisienne', cursive;
+    src:url('https://fonts.googleapis.com/css2?family=Parisienne&family=Roboto+Slab:wght@300;500&display=swap'); 
 }
 
 .introduction {
