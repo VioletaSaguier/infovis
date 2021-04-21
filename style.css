@@ -33,7 +33,7 @@
 .section-title span {
     position: absolute;
     top: 30px;
-    color: black;/*#D1E0B2;*/
+    color: #BFB6A1;
     left: 0;
     right: 0;
     z-index: 1;
@@ -41,7 +41,6 @@
     font-size: 52px;
     line-height: 0;
 }
-
 
 .section-title p {
     margin-bottom: 0;
