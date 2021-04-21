@@ -18,7 +18,7 @@
 .section-title {
     text-align: center;
     padding: 30px 0;
-    position: relative;
+    position: right/*relative*/;
 }
 .section-title h2 {
     font-size: 32px;
@@ -26,8 +26,8 @@
     text-transform: uppercase;
     margin-bottom: 20px;
     padding-bottom: 0;
-    color: #D1E0B2;
-    position: relative;
+    color:  red; /* #D1E0B2; */
+    position: right/*relative*/;
     z-index: 2;
 }
 
@@ -46,7 +46,7 @@
 
 .section-title p {
     margin-bottom: 0;
-    position: relative;
+    position: right/*relative*/;
     z-index: 2;
 }
 
@@ -57,10 +57,10 @@
     padding: 0.5em 0 0.5em 0;
     position: relative;
     text-align: center;
-    font-family: 'Oswald', sans-serif;
+   font-family: 'Bitter', serif;
 }
 .info{
-    font-family: 'Merriweather', serif;
+    font-family: 'Bitter', serif;
 }
 .info h3{
     font-size: medium;
