@@ -16,14 +16,13 @@
     margin-top: 3em;
 }
 .section-title {
-    text-align: right;
+    text-align: center;
     padding: 30px 0;
     position: relative;
 }
 .section-title h2 {
     font-size: 32px;
     font-weight: 700;
-    text-transform: uppercase;
     margin-bottom: 20px;
     padding-bottom: 0;
     color: #3b434a; 
@@ -40,9 +39,9 @@
     z-index: 1;
     font-weight: 700;
     font-size: 52px;
-    text-transform: uppercase;
     line-height: 0;
 }
+
 
 .section-title p {
     margin-bottom: 0;
@@ -56,7 +55,7 @@
     font-size: 2em;
     padding: 0.5em 0 0.5em 0;
     position: relative;
-    text-align: right;
+    text-align: center;
   font-family: 'Roboto Slab', serif;
     
 .info{
