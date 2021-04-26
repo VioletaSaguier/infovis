@@ -11,4 +11,4 @@
 
 [Mi primer html](violetasaguier.github.io/infovis/index.html )
 
-[Trabajo práctico datos personales - consumo de mate] (violetasaguier.github.io/infovis/ConsumoDeMate.html)
+[Trabajo práctico datos personales - consumo de mate](violetasaguier.github.io/infovis/ConsumoDeMate.html)
